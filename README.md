@@ -1,8 +1,8 @@
 ### Opa! Me chamo Samuel 👋
 ### Hi there, my name is Samuel 👋
 
-- 🌱 Estou atualtmente estudando React.JS e Node.JS 
-- 🌱  I’m currently learning React.JS and Node.JS
+- 💻 Estou atualtmente estudando React.JS e Node.JS 
+- 💻  I’m currently learning React.JS and Node.JS
  
  <div>
   <a href="https://github.com/samuelfsd">

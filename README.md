@@ -1,8 +1,8 @@
 ### Opa! Me chamo Samuel 👋
 ### Hi there, my name is Samuel 👋
 
-- 💻 Estou atualtmente estudando React.JS e Node.JS 
-- 💻  I’m currently learning React.JS and Node.JS
+- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End, especificamente utilizando as tecnologias Javascript,Typescript,React.JS,Next.JS,HTML,CSS(Styled-components,SASS), axios, REST.
+
  
  <div>
   <a href="https://github.com/samuelfsd">

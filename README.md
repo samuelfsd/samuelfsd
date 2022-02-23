@@ -1,7 +1,7 @@
 ### Opa! Me chamo Samuel 👋
 ### Hi there, my name is Samuel 👋
 
-- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End, especificamente utilizando as tecnologias Javascript,Typescript,React.JS,Next.JS,HTML,CSS(Styled-components,SASS), axios, REST.
+- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End, especificamente utilizando as tecnologias Javascript, Typescript, React.JS, Next.JS, HTML, CSS(Styled-components, SASS), axios, REST.
 
  
  <div>

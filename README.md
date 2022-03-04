@@ -1,6 +1,17 @@
 ### Opa! Me chamo Samuel 👋
 
-- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End, especificamente utilizando as tecnologias Javascript, Typescript, React.JS, Next.JS, HTML, CSS(Styled-components, SASS), axios, REST.
+- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End. 
+
+### Stack
++  Javascript
++  Typescript
++  React 
++  Next 
++  HTML 
++  CSS(Styled-components, SASS)
++  MUI
++  Axios
++  REST
 
  
  <div>
@@ -10,8 +21,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Samu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Samu-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" alt="Samu-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Samu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samu-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>

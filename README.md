@@ -1,6 +1,6 @@
 ### Opa! Me chamo Samuel 👋
 
-- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento Front-End. 
+- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento, em fullstack, tanto no front ou back. 
 
 ### Stack
 +  Javascript

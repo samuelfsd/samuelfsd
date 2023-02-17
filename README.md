@@ -1,15 +1,24 @@
 ### Opa! Me chamo Samuel 👋
 
-- 💻 Atualmente estudo e me desenvolvo na área de desenvolvimento, em fullstack, tanto no front ou back. 
-
+- 💻 Aspirante a desenvolvedor e entusiasta de tecnologia.
+      Atualmente sou estudante de Ciências da computação pela Universidade Estadual
+      da Paraíba - UEPB, com muita ambição de entrar no mercado de trabalho para
+      me aperfeiçoar nas tecnologias do momento.
 ### Stack
-+  Javascript
 +  Typescript
++  Java
+
+### Back 
++ Express
++ Nestjs
++ Spring 
++ Posgress 
++ SQLite
++ MariaDB
+
+### Front
 +  React 
 +  Next 
-+  HTML 
-+  CSS(Styled-components, SASS)
-+  MUI
 +  Axios
 +  REST
 

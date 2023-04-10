@@ -5,7 +5,7 @@
       da Paraíba - UEPB, com muita ambição de entrar no mercado de trabalho para
       me aperfeiçoar nas tecnologias do momento.
 ### Stack
-+  Typescript
++  Javasript
 +  Java
 
 ### Back 
@@ -14,7 +14,6 @@
 + Spring 
 + Posgress 
 + SQLite
-+ MariaDB
 
 ### Front
 +  React 

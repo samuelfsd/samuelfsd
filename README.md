@@ -22,8 +22,8 @@ I'm currently studying React Native, Flask and Golang.
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Knowledge of frameworks:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React_Native.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=white&labelColor=0D1117)&nbsp;
 ![Postgres](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;  
 ### Learning in this moment:
